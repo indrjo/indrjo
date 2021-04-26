@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Indrjo Dedej (@indrjo). I am currently studying Mathematics at *Università di Pavia*, in Italy.
+- 👀 I (or at least, try to) do some math. I write about things I happpen to learn. I also try to do something with Haskell or Lisp.
